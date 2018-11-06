@@ -20,7 +20,7 @@ import {
 	matchNativeItemType,
 } from './NativeDragSources'
 import * as NativeTypes from './NativeTypes'
-import autobind from 'autobind-decorator'
+import autobind from 'oui-autobind-decorator'
 import { HTML5BackendContext } from './interfaces'
 
 const shallowEqual = require('shallowequal')
